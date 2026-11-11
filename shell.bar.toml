@@ -1,0 +1,10 @@
+# Bar section override for the Ultraviolet theme. Omarchy renders the full
+# shell.toml from colors.toml, then replaces only this [bar] section.
+background       = "#000000"
+background-alpha = 1.0
+text             = "#a855f7"
+# Modules calling attention to themselves (recording, voxtype, alerts, updates)
+active           = "#ff5f8f"
+scale-with-font  = true
+size-horizontal  = 26
+size-vertical    = 28
